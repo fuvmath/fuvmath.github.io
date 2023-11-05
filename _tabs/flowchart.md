@@ -1,5 +1,5 @@
 ---
 layout: page
-order: 5
+order: 3
 ---
 Flowchart
