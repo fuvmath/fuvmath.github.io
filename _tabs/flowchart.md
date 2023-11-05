@@ -2,4 +2,4 @@
 layout: page
 order: 5
 ---
-Flowchart
+![Flowchart](/assets/img/MATH-Flowchart.jpg)
