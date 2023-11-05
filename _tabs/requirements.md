@@ -5,7 +5,7 @@ order: 3
 In order to declare Major/Minor in Applied Math, students need to complete at least 2 Foundation courses or 1 Foundation and 1 Intermediate courses.
 
 ## Major Requirements
--  Roundation courses: Linear Algebra, Calculus, Introduction to Statistics, Multivariable Calculus (16 credits).
+-  Foundation courses: Linear Algebra, Calculus, Introduction to Statistics, Multivariable Calculus (16 credits).
 
 - 1 writing course (History of Mathematics/Ideas in Mathematics) (4 credits).
 
