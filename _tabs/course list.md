@@ -24,6 +24,8 @@ order: 5
 
 ### MATH 307: Real Analysis
 
-### Mathematical Statistics
+### MATH 308: Statistical Learning
 
-### Mathematics Research Seminar 
+### MATH 3xx: Mathematical Statistics
+
+### MATH 3xx: Mathematics Research Seminar 
