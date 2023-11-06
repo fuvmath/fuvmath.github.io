@@ -11,3 +11,5 @@ require calculus as a prerequisite.
 The test is 90 minutes and there will 30 questions (one point for each).
 
 Students who would like to register please do so in the following link: <https://forms.gle/LYB47BFgbjDH1B68A> 
+
+Deadline for Registration is Thursday, Nov 16.
