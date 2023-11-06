@@ -20,6 +20,8 @@ order: 5
 
 ### MATH 301: Optimization
 
+### MATH 305: Stochastic Calculus
+
 ### MATH 306: Financial Mathematics
 
 ### MATH 307: Real Analysis
