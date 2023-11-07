@@ -84,6 +84,12 @@ This course will provide students with basic foundation in probability theory wh
 
 ### MATH 301: Optimization
 
+Optimization is a common problem in various fields, ranging from everyday decision-making to complex problem-solving in computer science, economics, science and engineering. What is the fastest path travelling from A to B? How is a model configured to best fit a given dataset? How to build an investment portfolio that maximizes returns while minimizing risks. How electricity is distributed in the network to ensure optimal power flow and minimize losses. All these questions can be answered by solving optimization problems. This course introduces the principles, techniques, and applications of optimization, a fundamental concept that involves finding the best possible solution from a set of alternatives. It is a blend of applied mathematics and computer science. However, it also benefits students majoring in economics, engineering, and integrated science, particularly those with an interest in computational topics.
+
+**Pre-requisites:** MATH 101, MATH 103, Basic Programming Skills
+
+**Cross-list:** CS
+
 ### MATH 305: Stochastic Calculus
 
 Many business or financial processes are occurring randomly every moment, but business managers or investors need to monitor them constantly as well as predict their future short-term and long-term movements to propose appropriate action plans. For instance, stock investors always want to update their current stock values as well as the future stock price movement directions. Sale managers also want to predict the number of customers buying their products next months for better business plans. This course aims to equip students’ knowledge and skills to meet such business demands. In particular, students learn about properties of different random processes, how to model some random phenomena by suitable random processes and how to simulate possible future movements of the phenomena. Several case studies are presented in the course so that student can learn and practice to solve business problems. This course also offers a strong foundation for further advanced applications on financial derivative pricing, portfolio optimization.
