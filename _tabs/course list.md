@@ -129,13 +129,13 @@ Machine learning (ML) has enjoyed tremendous successes in a wide variety of appl
 
 **Cross-list:** CS
 
-### MATH 3xx: Mathematical Statistics
+### MATH 310: Mathematical Statistics
 
 This course provides the rigorous mathematical foundation for statistics. Designed for students who already know how to conduct standard hypothesis testings, the course will give a logical explanation for the universality of the normal distribution and why the normal distribution plays the central role in most hypothesis tests. The students will understand why the tools they learned in previous statistics courses work. Furthermore, built from the foundation of probability, the course will also discuss rigorously the theory of some of the important ideas in statistics such as parametric/nonparametric estimation, point estimation, Bayesian inference, linear regression, logistic regression, method of moments, maximum likelihood.
 
 **Pre-requisites:** MATH 205, MATH 104
 
-### MATH 3xx: Mathematics Research Seminar
+### MATH 311: Mathematics Research Seminar
 
 This is a research seminar aimed at students who wish to major in mathematics. In this course, mathematics faculty will first take turns presenting research problems in their respective fields of expertise. The goal is to expose students to different lines of research in mathematics so that interested students may choose a potential topic to explore for Senior Capstone. After the faculty’s presentations, students will present assigned readings. The goal of this part is to help students learn how to synthesize and convey ideas of other peoples’ work. Along the way, students will learn how to apply learned mathematical concepts to understand complex research topics.
 
