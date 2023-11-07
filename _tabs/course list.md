@@ -2,16 +2,6 @@
 Title: Course List
 order: 5
 ---
-### Spring 2024 Offering
-
-- MATH 104: Multivariable Calculus (Truong-Son Van)
-- MATH 201: Differential Equations (Hieu Nguyen)
-- MATH 202: Discrete Mathematics (Linh Tran)
-- MATH 306: Financial Mathematics (Tan Le)
-- MATH 307: Real Analysis (Hieu Nguyen)
-- MATH 310: Mathematical Statistics (Truong-Son Van)
-- MATH 311: Mathematics Research Seminar (All Faculty)
-
 ### MATH 101: Calculus
 
 How can we estimate the weight of a bridge? What price should a store set for a product so as to maximize the revenue? Calculus provides tools to answer these questions and many more. Calculus is fundamental to many scientific disciplines including physics, engineering, statistics, computer science, and economics. Using everyday language and graphs, as well as equations, data, and numerical approaches, this course will provide the essential concepts of Calculus, illustrated, and explored through a wide range of real-world examples. Students will develop their critical thinking and problem-solving skills, while also gaining a solid preparation for higher-level courses such as differential equations or statistics. The main topics are functions, limits, derivatives, and integrals.
