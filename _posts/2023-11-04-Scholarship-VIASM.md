@@ -1,7 +1,7 @@
 ---
 title: "Scholarship Recipients"
 layout: post
-tags: "scholarship VISAM"
+tags: "scholarship VIASM"
 ---
 Congratulations to Nguyen Hoang Ngoc Ha and Nguyen Hoang Nhat Tan upon receiving 
 MOET-VIASM Scholarship for the first semester of the school year 2023-2024.
