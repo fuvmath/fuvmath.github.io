@@ -1,7 +1,7 @@
 ---
 title: "[Announcement] Calculus Placement Exam for Spring Courses"
 layout: post
-pin: true
+pin: false
 ---
 The math faculty would like to organize a calculus placement test on Saturday, 
 Nov 18, 2023 for students, who would like to take a test (with a pass result) 
