@@ -2,6 +2,7 @@
 title: "Instruction to receive emails from FUV Math website" 
 layout: post
 pin: true
+tags: "mailing list instructions"
 ---
 
 Below is the instruction to participate in the Github of FUV Math.
