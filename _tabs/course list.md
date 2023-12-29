@@ -27,7 +27,7 @@ discrete dynamical systems.
 
 **Pre-requisites:** None
 
-### MATH 102: Linear Algebra
+### MATH 103: Linear Algebra
 
 Have you ever wondered how Google search can find exactly what you need among billions of web pages? How can your smartphone recognize your face? How can an analyst handle thousands of survey results and draw the most significant conclusion? Linear Algebra provides the engines that power these applications.  The objects and structures in Linear Algebra can be used in many areas, from physics to data mining or business analysis. This course is designed to help students understand the basic concepts and methods of Linear Algebra as well as how to build real-world models and compute solutions using computer programming (Matlab/Python). Major topics in this course include vectors and matrices, matrix operations, determinants, solving systems of linear equations, eigenvalues and eigenvectors, matrix decompositions, and real-life applications. 
 
