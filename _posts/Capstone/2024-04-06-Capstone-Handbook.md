@@ -150,7 +150,7 @@ Preliminary pages, in the following order:
 While this presentation is not assessed as part of the final submission, in order for your final submission to be evaluated at the end of Capstone II you must present your work as a formal 15-minute paper at the Capstone Symposium. You are expected to attend the entire symposium and to engage with the presentations of your classmates.
 ### 2.4. Evaluation Criteria: Capstone by Thesis
 
-We will follow the grading rubric in Appendix 1.
+We will follow the grading rubric in [Appendix 1](https://fuvmath.github.io/posts/Capstone-Handbook/#appendix-1-capstone-grading-rubric).
 
 Total score: 18
 
