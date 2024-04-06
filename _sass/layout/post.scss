@@ -305,7 +305,7 @@ header {
   }
 
   p {
-    font-size: 0.9rem;
+    font-size: 20rem;
     margin-bottom: 0.5rem;
     overflow: hidden;
     text-overflow: ellipsis;
@@ -362,7 +362,7 @@ header {
 /* Hide SideBar and TOC */
 @media all and (max-width: 849px) {
   .post-navigation {
-    padding-left: 10;
+    padding-left: 0;
     padding-right: 0;
     margin-left: -0.5rem;
     margin-right: -0.5rem;
