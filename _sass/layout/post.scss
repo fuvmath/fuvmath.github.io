@@ -167,7 +167,7 @@ header {
 
     &::before {
       color: var(--text-muted-color);
-      font-size: 5rem;
+      font-size: 0.65rem;
       text-transform: uppercase;
       content: attr(aria-label);
     }
@@ -229,7 +229,7 @@ header {
 }
 
 #toc-wrapper {
-  border-left: 1px solid rgba(158, 158, 158, 0.17);
+  border-left: 3px solid rgba(158, 158, 158, 0.17);
   position: -webkit-sticky;
   position: sticky;
   top: 4rem;
