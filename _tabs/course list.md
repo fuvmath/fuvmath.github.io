@@ -1,6 +1,6 @@
 ---
 Title: Course List
-order: 5
+order: 4
 ---
 For a history of course offerings in each term, please visit
 [HERE](/tags/offerings/)
