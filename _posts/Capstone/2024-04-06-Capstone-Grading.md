@@ -5,6 +5,7 @@ pin: true
 tags: "Capstone Grading"
 ---
 The following is the grading rubric for Capstone project in Applied Mathematics major during academic year 2023-2024.
+The grading rubric could also be found in the Applied Mathematics Capstone Handbook.
 
 # Research Process
 ### This part is evaluated by the thesis advisor only.
