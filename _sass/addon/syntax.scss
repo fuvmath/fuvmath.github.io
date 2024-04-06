@@ -78,6 +78,7 @@ html {
 
       pre {
         overflow: visible; /* Fixed iOS safari overflow-x */
+        word-wrap: break-word;
         word-break: normal; /* Fixed iOS safari linenos code break */
       }
     }
