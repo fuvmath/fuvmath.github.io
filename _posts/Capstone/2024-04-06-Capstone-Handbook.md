@@ -1,9 +1,11 @@
 ---
-layout: page
-order: 6
+title: "Capstone Handbook" 
+subtitle: "As of AY 2023-2024"
+layout: post
+pin: true
+tags: "Capstone Grading"
 ---
 
-# Capstone Handbook 
 (As of AY 2023-2024)
 
 ## 1. General Information
