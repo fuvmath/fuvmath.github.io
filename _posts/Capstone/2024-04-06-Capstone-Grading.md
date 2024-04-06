@@ -10,7 +10,6 @@ The following is the grading rubric for Capstone project in Applied Mathematics 
 ### This part is evaluated by the thesis advisor only.
 
 ## Personal Development and attitude 
-<div style="word-wrap: break-word; word-break: break-all;">
 
 |    | Insufficient <br>  0 point | Satisfactory <br> 1 point | Good <br> 2 points | Excellent <br> 3 points |
 |  :---: | :---: | :---: | :---: | :---: |
@@ -19,7 +18,6 @@ The following is the grading rubric for Capstone project in Applied Mathematics 
 |   Taking responsibility for  the project and working  independently; handling  data (if applicable) | Takes no responsibility,  shows no independence,  unreliable handling. | Takes responsibility, works  semi-independently,  clearly needing  supervision, handles data  quite reliably | Takes responsibility, works  independently with some  need of supervision,  handles data in a reliable  manner | Takes responsibility for  the project and works  independently, and if  applicable, handles data  in a reliable manner |
 |   Communication with  supervisor, planning  meetings, leading  discussions | Communicates badly,  plans inconsistently, no  participation. | Communicates well, plans  consistently, lets the  supervisor lead the  discussion | Communicates well, plans  consistently and actively  participates | Communicates well plans  consistently and takes  initiative |
 
-</div>
 
 ## Mathematical development
 
