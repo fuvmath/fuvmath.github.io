@@ -167,7 +167,7 @@ header {
 
     &::before {
       color: var(--text-muted-color);
-      font-size: 0.65rem;
+      font-size: 5rem;
       text-transform: uppercase;
       content: attr(aria-label);
     }
@@ -305,7 +305,7 @@ header {
   }
 
   p {
-    font-size: 20rem;
+    font-size: 0.9rem;
     margin-bottom: 0.5rem;
     overflow: hidden;
     text-overflow: ellipsis;
