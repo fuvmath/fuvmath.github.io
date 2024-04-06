@@ -32,3 +32,4 @@ In order to declare Major/Minor in Applied Math, students need to complete at le
 ## Graduation with Honors
 - Complete Capstone I and Capstone II
 - Capstone project must be graded as Honors pass
+- For more details about the capstone, please refer to the [Capstone Handbook](https://fuvmath.github.io/posts/Capstone-Handbook/)
