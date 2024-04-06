@@ -12,7 +12,7 @@ What is a Capstone in Applied Mathematics?
 
 According to university-wide policy, a capstone marks the culmination of a student’s curriculum. The capstone is a project that demonstrates the principal learning outcomes and competencies of that curriculum in a meaningful and coherent way. The capstone may also be drawn from relevant extra-curricular activities and practical experience to support the research and realization of the project. The capstone should evidence competency in a primary disciplinary specialization (optionally supported by secondary and tertiary disciplinary areas).
 
-In the Applied Mathematics major, the capstone is to be conducted individually and can take only the form of a written thesis. In extremely rare cases, a student may wish to complete other kinds of projects. However, in such cases an approval by ALL faculty in Applied Mathematics. 
+In the Applied Mathematics major, the capstone is to be conducted individually and can take only the form of a written thesis. In extremely rare cases, a student may wish to complete other kinds of projects. However, in such cases an approval by ALL faculty in Applied Mathematics is required. 
 
 REMEMBER:
 
