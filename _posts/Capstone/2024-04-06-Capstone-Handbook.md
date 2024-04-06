@@ -172,14 +172,16 @@ The yearly presentation is planned to take place at the end of Capstone II, duri
 
 The format of the capstone presentation should be decided between the student and his/her advisors. Possible formats include, but are not limited to, a powerpoint presentations, a board presentation, combination of board presentations and other media presentations.
 
+---
 
-# APPENDIX 1: Capstone grading rubric
+
+## APPENDIX 1: Capstone grading rubric
 
 The following is the grading rubric for Capstone project in Applied Mathematics major during academic year 2023-2024.
 
-# Research Process
-### This part is evaluated by the thesis advisor only.
-## Personal Development and attitude
+## Research Process
+#### This part is evaluated by the thesis advisor only.
+### Personal Development and attitude
 
 ||**Insufficient**<br>**0 point**|**Satisfactory**<br>**1 point**|**Good**<br>**2 points**|**Excellent**<br>**3 points**|
 | :- | :-: | :-: | :-: | :-: |
@@ -188,7 +190,7 @@ The following is the grading rubric for Capstone project in Applied Mathematics 
 |Taking responsibility for the project and working independently; handling data (if applicable)|Takes no responsibility, shows no independence, unreliable handling.|Takes responsibility, works semi-independently, clearly needing supervision, handles data quite reliably|Takes responsibility, works independently with some need of supervision, handles data in a reliable manner|Takes responsibility for the project and works independently, and if applicable, handles data in a reliable manner|
 |Communication with supervisor, planning meetings, leading discussions|Communicates badly, plans inconsistently, no participation.|Communicates well, plans consistently, lets the supervisor lead the discussion|Communicates well, plans consistently and actively participates|Communicates well plans consistently and takes initiative|
 
-## Mathematical development
+### Mathematical development
 
 ||**Insufficient**<br>**0 point**|**Satisfactory**<br>**1 point**|**Good**<br>**2 points**|**Excellent**<br>**3 points**|
 | :- | :-: | :-: | :-: | :-: |
@@ -197,11 +199,11 @@ The following is the grading rubric for Capstone project in Applied Mathematics 
 |Development of practical (experimental/computer) skills (if applicable)|Insufficient|Know the basics and take time to implement|Developed good skills for the project|Developed good skills for the project|
 
 
-### Below evaluations will be filled by the thesis advisor and the second reader.
+#### Below evaluations will be filled by the thesis advisor and the second reader.
 
-# Thesis
+## Thesis
 
-## Research Context
+### Research Context
 
 ||**Insufficient**<br>**0 point**|**Satisfactory**<br>**1 point**|**Good**<br>**2 points**|**Excellent**<br>**3 points**|
 | :- | :-: | :-: | :-: | :-: |
@@ -210,7 +212,7 @@ The following is the grading rubric for Capstone project in Applied Mathematics 
 |The approach is|Unclear and illogical|Clear but minor illogical points|Clearly outlined and appropriate|Clear and innovative|
 |Relevant literature review|Missing|Included but may not be well-chosen|Well-chosen|Well-chosen|
 
-## Mathematical content
+### Mathematical content
 
 ||**Insufficient**<br>**0 point**|**Satisfactory**<br>**1 point**|**Good**<br>**2 points**|**Excellent**<br>**3 points**|
 | :- | :-: | :-: | :-: | :-: |
@@ -218,7 +220,7 @@ The following is the grading rubric for Capstone project in Applied Mathematics 
 |Proofs and discussions of the subject|Weak, missing crucial elements|Given, mostly complete but not in much depth|Given, complete but not too different from the references|Given, complete and in-depth; show a great level of mastery of the subject|
 |Creativity|Lacking|Some|Some|Very original|
 
-## Writing style and mathematical exposition
+### Writing style and mathematical exposition
 
 ||**Insufficient**<br>**0 point**|**Satisfactory**<br>**1 point**|**Good**<br>**2 points**|**Excellent**<br>**3 points**|
 | :- | :-: | :-: | :-: | :-: |
@@ -228,15 +230,15 @@ The following is the grading rubric for Capstone project in Applied Mathematics 
 |Theorems, propositions and lemmas|Poorly chosen and not connected|Chosen with some shortcomings|Well-chosen|Well-chosen|
 |Examples and/or figures|Absent or irrelevant|Reasonably chosen but could be better|Well-chosen|Well-chosen, interesting, and judiciously placed to aid readers|
 
-# Presentation
-## Content
+## Presentation
+### Content
 
 ||**Insufficient**<br>**0 point**|**Satisfactory**<br>**0.5 point**|**Good**<br>**1 points**|**Excellent**<br>**1.5 points**|
 | :- | :-: | :-: | :-: | :-: |
 |The selection of topics and examples|Weak; the presentation was missing parts or did not match the audience level|Reasonable; however, sometimes the choices did not match the audience level|Reasonable, taking into account the audience level|Good, taking into account the audience level|
 |Organization and coherence of the presentation|Could have been better; there were many shortcomings|Well enough, have a nice flow, but there were some shortcomings|Well enough, nice flow in general|Almost perfect, giving a good flow and a sense of direction|
 
-## Presentation skills
+### Presentation skills
 
 ||**Insufficient**<br>**0 point**|**Satisfactory**<br>**0.5 point**|**Good**<br>**1 points**|**Excellent**<br>**1.5 points**|
 | :- | :-: | :-: | :-: | :-: |
