@@ -25,6 +25,7 @@ The following is the grading rubric for Capstone project in Applied Mathematics 
 | Comprehensive understanding of the subject, given its difficulty | Failed to develop this | Developed this | Developed this, in its broader context | Developed this, in its broader context |
 | Understanding and reproduce the mathematical theories used | Failed | Did this with while closely supervised | Did this, with some guidance | Did this with relatively little guidance |
 | Development of practical (experimental/computer) skills (if applicable) | Insufficient | Know the basics and take time to implement | Developed good skills for the project |  Developed good skills for the project |
+
 ---
 
 ### Below evaluations will be filled by the thesis advisor and the second reader.
