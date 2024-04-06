@@ -1,12 +1,11 @@
 ---
 title: "Capstone Handbook" 
-subtitle: "As of AY 2023-2024"
 layout: post
 pin: true
 tags: "Capstone Grading"
 ---
 
-(As of AY 2023-2024)
+(As of Academic Year 2023-2024)
 
 ## 1. General Information
 What is a Capstone in Applied Mathematics? 
@@ -138,10 +137,11 @@ Preliminary pages, in the following order:
 
         A thesis submitted to partially fulfill the requirements for the degree of Bachelor of Science in Applied Mathematics
 
-2. Acknowledgment(s) page. Optional. 
-3. Table of Contents. A consecutive listing of chapters or major headings with page numbers; also include the page number for the additional sections (illustrations, the appendix (if included), and the bibliography. Double space between these elements. 
-4. List of Tables (as necessary), with titles and page references.
-5. List of Illustrations, with titles and page references.
+2. Table of Contents. A consecutive listing of chapters or major headings with page numbers; also include the page number for the additional sections (illustrations, the appendix (if included), and the bibliography. Double space between these elements. 
+3. Abstract page. Double-spaced.
+4. Acknowledgment(s) page. Optional. 
+5. List of Tables (as necessary), with titles and page references.
+6. List of Illustrations, with titles and page references.
 
 ***Note***: The preliminary pages should be paginated using small Roman numerals (i, ii, iii, iv, v, and so on). These may be placed at the bottom of the page. The title page counts as page i, but do not print a page number on this page. Begin the pagination with the next page (acknowledgments page, if you have one, or the table of contents).
 
@@ -172,9 +172,11 @@ The yearly presentation is planned to take place at the end of Capstone II, duri
 
 The format of the capstone presentation should be decided between the student and his/her advisors. Possible formats include, but are not limited to, a powerpoint presentations, a board presentation, combination of board presentations and other media presentations.
 
+
 # APPENDIX 1: Capstone grading rubric
 
 The following is the grading rubric for Capstone project in Applied Mathematics major during academic year 2023-2024.
+
 # Research Process
 ### This part is evaluated by the thesis advisor only.
 ## Personal Development and attitude
