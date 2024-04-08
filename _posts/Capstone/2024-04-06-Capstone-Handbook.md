@@ -118,7 +118,11 @@ More information on the IRB approval process can be found at <https://fulbright.
 The capstone is subject to the regulations described in Fulbright University Vietnam’s Code of Academic Integrity.
 
 ### 1.9. Grading process
-For both Capstone I and II, the capstone project is to be graded by *both* the primary and secondary advisors, following what is known as a double-marking process.
+As in Appendix 1, there are two graders for each capstone project: primary advisor and a second reader (which will be the secondary advisor, if there is one).
+
+-	Research Process will be graded by the primary advisor.
+
+-	The Thesis and Presentation will be graded by both the primary advisor and the second reader. 
 
 
 ## 2. Capstone by Thesis Guidelines
@@ -178,6 +182,8 @@ The format of the capstone presentation should be decided between the student an
 ## APPENDIX 1: Capstone grading rubric
 
 The following is the grading rubric for Capstone project in Applied Mathematics major during academic year 2023-2024.
+
+There are two graders for each capstone project: primary advisor and a second reader (which will be the secondary advisor, if there is one).
 
 ## Research Process
 #### This part is evaluated by the thesis advisor only.
