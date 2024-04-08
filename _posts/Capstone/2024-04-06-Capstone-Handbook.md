@@ -36,7 +36,7 @@ To be eligible to apply for the capstone in Applied Mathematics, you must meet t
 
 Capstone applicants will be assessed by the major faculty based on the eligibility criteria and the quality of the proposal.
 
-- *NOTE: Successful capstone applicants must maintain a 3.6 GPA throughout their senior year to be able to earn an Honors for the capstone. Failure to maintain the required GPA will result in the capstone being capped at Pass.*
+- *NOTE: Successful capstone applicants must maintain a 3.5 GPA throughout their senior year to be able to earn an Honors for the capstone. Failure to maintain the required GPA will result in the capstone being capped at Pass.*
 ### 1.2. Allocation of advisor process 
 Successful applicants will provide a first choice of primary and secondary advisor and will be accomodated when prudent. If the student’s first or second preference cannot be accommodated due to the necessity of maintaining a fair distribution of faculty workload, the major capstone coordinator will consult with the student to determine an appropriate solution.
 
