@@ -168,9 +168,7 @@ Score breakdown:
 
 ### 3.1 Timeline of the Capstone Presentation:
 
-At the end of Capstone II, students are highly recommended to present their findings to the larger Fulbright community. The Capstone presentation, while not a graded component of the final evaluation, presents a chance for graduating seniors to share their work and insights into the process of conducting intensive research and researched-based projects to a wider public. 
-
-The yearly presentation is planned to take place at the end of Capstone II, during the last two weeks of the semester. 
+At the end of Capstone II, students are required to present their findings to the larger Fulbright community. 
 
 ### 3.2. Format of the Capstone Presentation: 
 
