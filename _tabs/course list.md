@@ -28,8 +28,8 @@ Students may use this for general course planning for their career at Fulbright.
 |  Numerical analysis (alternate)           |  Discrete Mathematics                                             |
 |  Intro to Quantitative Finance         |                                                                  |
 | **300 level** | **300 level** |                                     
-|  Real Analysis / 3xx: Abstract Algebra     |  Optimization/ Topology and Measure Theory   |
-|  Stat learning / 310: Mathematical Statistics  |   Operations Research (Special, limited offering)                                   |
+|  Real Analysis /  Abstract Algebra     |  Optimization/ Topology and Measure Theory   |
+|  Stat learning / Mathematical Statistics  |   Operations Research (Special, limited offering)                                   |
 |                                                 |  Research seminar                                            |
 |                                                 |  Stochastic Calculus (alternate)                    |
 
