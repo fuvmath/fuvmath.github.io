@@ -58,7 +58,7 @@ that could be counted to fulfill the elective applied course requirements.
 |                     |  3xx: Operations Research | 
 
 
-**NOTE**: You cannot double count one course for both applied elective and some other requirement.
+**NOTE**: You cannot double count one course for both applied elective and other requirement.
 
 ### MATH 101: Calculus
 
