@@ -19,15 +19,15 @@ Students may use this for general course planning for their career at Fulbright.
 
 | Fall                                            | Spring                                                           |
 | :-----------------------------------------------: | :----------------------------------------------------------------: |
-|  **100 level** || 
+|  **100 level** | **100 level** | 
 | Calculus                              |  Linear Algebra                                              |
 |  Idea of Mathematics                  |  Multivariable Calculus                                    |
 |  Intro to Statistics (CORE)          |  Intro to Statistics (CORE)                                |
-| **200 level** ||                                    
+| **200 level** | **200 level** |                                    
 |  Probability                          |  Differential Equations                                                |
 |  Numerical analysis (alternate)           |  Discrete Mathematics                                             |
 |  Intro to Quantitative Finance         |                                                                  |
-| **300 level** ||                                     
+| **300 level** | **300 level** |                                     
 |  Real Analysis / 3xx: Abstract Algebra     |  Optimization/ Topology and Measure Theory   |
 |  Stat learning / 310: Mathematical Statistics  |   Operations Research (Special, limited offering)                                   |
 |                                                 |  Research seminar                                            |
