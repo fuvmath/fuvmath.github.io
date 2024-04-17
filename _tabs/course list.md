@@ -19,7 +19,7 @@ Students may use this for general course planning for their career at Fulbright.
 
 | Fall                                            | Spring                                                           |
 | ----------------------------------------------- | ---------------------------------------------------------------- |
-| **100 level**  ||
+| <center>**100 level**</center>  ||
 | 101: Calculus                              | 102: Linear Algebra                                              |
 | 102: Idea of Mathematics                        | 104: Multivariable Calculus                                    |
 | 105: Intro to Statistics (CORE)          | 105: Intro to Statistics (CORE)                                |
@@ -29,7 +29,7 @@ Students may use this for general course planning for their career at Fulbright.
 | 2xx: Intro to Quantitative Finance         |                                                                  |
 | **300 level**                                       ||
 | 307: Real Analysis / 3xx: Abstract Algebra     | 301: Optimization/ Topology and Measure Theory   |
-| 308: Stat learning / 310: Mathematical Statistics  |  3xx: Operational Research (Special, limited offering)                                   |
+| 308: Stat learning / 310: Mathematical Statistics  |  3xx: Operations Research (Special, limited offering)                                   |
 |                                                 | 311: Research seminar                                            |
 |                                                 | 305: Stochastic Calculus (alternate)                    |
 
@@ -53,6 +53,12 @@ that could be counted to fulfill the elective applied course requirements.
 |             |  |
 | Engineering | 2xx: Signals, Systems, and Control |
 |             | 3xx: Computer Vision |
+|   |
+| Applied Mathematics |   2xx: Introduction to Quantitative Finance |
+|                     |  3xx: Operations Research | 
+
+
+**NOTE**: You cannot double count one course for both applied elective and some other requirement.
 
 ### MATH 101: Calculus
 
