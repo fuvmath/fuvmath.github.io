@@ -18,20 +18,20 @@ in advanced to the students via emails and official schedule sent out from Acade
 Students may use this for general course planning for their career at Fulbright.
 
 | Fall                                            | Spring                                                           |
-| ----------------------------------------------- | ---------------------------------------------------------------- |
-| <center>**100 level**</center>  ||
-| 101: Calculus                              | 102: Linear Algebra                                              |
-| 102: Idea of Mathematics                        | 104: Multivariable Calculus                                    |
-| 105: Intro to Statistics (CORE)          | 105: Intro to Statistics (CORE)                                |
-| **200 level**                                       ||
-| 205: Probability                          | 201: Differential Equations                                                |
-| 2xx: Numerical analysis (alternate)                  | 202: Discrete Mathematics                                             |
-| 2xx: Intro to Quantitative Finance         |                                                                  |
-| **300 level**                                       ||
-| 307: Real Analysis / 3xx: Abstract Algebra     | 301: Optimization/ Topology and Measure Theory   |
-| 308: Stat learning / 310: Mathematical Statistics  |  3xx: Operations Research (Special, limited offering)                                   |
-|                                                 | 311: Research seminar                                            |
-|                                                 | 305: Stochastic Calculus (alternate)                    |
+| :-----------------------------------------------: | :----------------------------------------------------------------: |
+| <td colspan="2"> **100 level**  
+| Calculus                              |  Linear Algebra                                              |
+|  Idea of Mathematics                  |  Multivariable Calculus                                    |
+|  Intro to Statistics (CORE)          |  Intro to Statistics (CORE)                                |
+| <td colspan="2"> **200 level**                                       
+|  Probability                          |  Differential Equations                                                |
+|  Numerical analysis (alternate)           |  Discrete Mathematics                                             |
+|  Intro to Quantitative Finance         |                                                                  |
+|  <td colspan="2"> **300 level**                                       
+|  Real Analysis / 3xx: Abstract Algebra     |  Optimization/ Topology and Measure Theory   |
+|  Stat learning / 310: Mathematical Statistics  |   Operations Research (Special, limited offering)                                   |
+|                                                 |  Research seminar                                            |
+|                                                 |  Stochastic Calculus (alternate)                    |
 
 The following is the most updated list of courses currently offered by other majors
 that could be counted to fulfill the elective applied course requirements.
