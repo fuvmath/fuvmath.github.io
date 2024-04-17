@@ -5,6 +5,55 @@ order: 4
 For a history of course offerings in each term, please visit
 [HERE](/tags/offerings/)
 
+Starting in Fall of 2024, the faculty of Applied Mathematics major will mostly follow 
+the following (unofficial) course schedule indefinitely. 
+The table should be self-explanatory. However, there are a few points about the alternating courses:
+
+- Classes that are meant to alternate with each other, year by year, will be listed as `Course 1/Course 2`.
+- Some courses are offered every other year and will be marked as `alternate`.
+
+Limited exceptions may happen due to different circumstances and will be communicated clearly,
+in advanced to the students via emails and official schedule sent out from Academic Affairs.
+
+Students may use this for general course planning for their career at Fulbright.
+
+| Fall                                            | Spring                                                           |
+| ----------------------------------------------- | ---------------------------------------------------------------- |
+| **100 level**  ||
+| 101: Calculus                              | 102: Linear Algebra                                              |
+| 102: Idea of Mathematics                        | 104: Multivariable Calculus                                    |
+| 105: Intro to Statistics (CORE)          | 105: Intro to Statistics (CORE)                                |
+| **200 level**                                       ||
+| 205: Probability                          | 201: Differential Equations                                                |
+| 2xx: Numerical analysis (alternate)                  | 202: Discrete Mathematics                                             |
+| 2xx: Intro to Quantitative Finance         |                                                                  |
+| **300 level**                                       ||
+| 307: Real Analysis / 3xx: Abstract Algebra     | 301: Optimization/ Topology and Measure Theory   |
+| 308: Stat learning / 310: Mathematical Statistics  |  3xx: Operational Research (Special, limited offering)                                   |
+|                                                 | 311: Research seminar                                            |
+|                                                 | 305: Stochastic Calculus (alternate)                    |
+
+The following is the most updated list of courses currently offered by other majors
+that could be counted to fulfill the elective applied course requirements.
+
+| Major    | Courses |
+| ----------- | ----------- |
+| Computer Science          | 2xx: Algorithm |
+|             | 3xx: Introduction to Machine Learning |
+|             | 3xx: Statistical Learning |
+|             | 3xx: Introduction to AI |
+|             |  |
+| Economics   | 2xx: Game Theory |
+|             | 3xx: The Economics of Corruption |
+|             | 3xx: Money and Banking |
+|             | 3xx: Economics of Inequality |
+|             | 3xx: Economics of Education |
+|             | 2xx: Cost-Benefit Analysis |
+|             | 3xx: Market design |
+|             |  |
+| Engineering | 2xx: Signals, Systems, and Control |
+|             | 3xx: Computer Vision |
+
 ### MATH 101: Calculus
 
 How can we estimate the weight of a bridge? What price should a store set for a product so as to maximize the revenue? Calculus provides tools to answer these questions and many more. Calculus is fundamental to many scientific disciplines including physics, engineering, statistics, computer science, and economics. Using everyday language and graphs, as well as equations, data, and numerical approaches, this course will provide the essential concepts of Calculus, illustrated, and explored through a wide range of real-world examples. Students will develop their critical thinking and problem-solving skills, while also gaining a solid preparation for higher-level courses such as differential equations or statistics. The main topics are functions, limits, derivatives, and integrals.
