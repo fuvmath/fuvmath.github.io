@@ -90,7 +90,7 @@ Have you ever wondered how Google search can find exactly what you need among bi
 
 ### MATH 104: Multidimensional Calculus
 
-Have you ever wondered how Google search can find exactly what you need among billions of web pages? How can your smartphone recognize your face? How can an analyst handle thousands of survey results and draw the most significant conclusion? Linear Algebra provides the engines that power these applications.  The objects and structures in Linear Algebra can be used in many areas, from physics to data mining or business analysis. This course is designed to help students understand the basic concepts and methods of Linear Algebra as well as how to build real-world models and compute solutions using computer programming (Matlab/Python). Major topics in this course include vectors and matrices, matrix operations, determinants, solving systems of linear equations, eigenvalues and eigenvectors, matrix decompositions, and real-life applications. 
+How do we describe the trajectory of a space shuttle? How is the human body affected by scuba diving to different depths for different lengths of time? The mathematics required to describe most real life systems involves functions of more than one variable. The concepts of the derivative and integral from a first course in calculus must therefore be extended to higher dimensional settings. In this course students will be guided through the essential ideas of multivariable calculus, including partial derivatives, multiple integrals and vector calculus, and their applications. These mathematical tools are used extensively in the physical sciences and engineering, and in other areas including economics and computer graphics.
 
 **Pre-requisites:** MATH 101
 
