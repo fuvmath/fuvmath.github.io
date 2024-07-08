@@ -27,7 +27,8 @@ In order to declare Major/Minor in Applied Math, students need to complete at le
 
 
 ## Minor Requirements
-- 6 Mathematics courses which include at least 1 Advanced course and 2 Intermediate courses.
+- 6 Mathematics courses which include at least 1 advanced course and 
+  2 intermediate (or above) courses.
 
 ## Graduation with Honors
 - Complete Capstone I and Capstone II
