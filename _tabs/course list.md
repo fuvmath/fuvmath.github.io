@@ -38,24 +38,22 @@ that could be counted to fulfill the elective applied course requirements.
 
 | Major    | Courses |
 | ----------- | ----------- |
-| Computer Science          | 2xx: Algorithm |
-|             | 3xx: Introduction to Machine Learning |
-|             | 3xx: Statistical Learning |
-|             | 3xx: Introduction to AI |
+| Computer Science          | 302: Algorithm |
+|             | 307: Introduction to Machine Learning |
+|             | 204: Introduction to AI |
 |             |  |
-| Economics   | 2xx: Game Theory |
-|             | 3xx: The Economics of Corruption |
-|             | 3xx: Money and Banking |
-|             | 3xx: Economics of Inequality |
-|             | 3xx: Economics of Education |
-|             | 2xx: Cost-Benefit Analysis |
-|             | 3xx: Market design |
+| Economics   | 211: Game Theory |
+|             | 212: Cost-Benefit Analysis |
+|             | 201: Microeconomics Analysis |
+|             | 203: Macroeconomics Analysis |
+|             | 209: Econometrics |
 |             |  |
-| Engineering | 2xx: Signals, Systems, and Control |
-|             | 3xx: Computer Vision |
+| Engineering | 209: Signals, Systems, and Control |
+|             | 301: Computer Vision |
 |   |
-| Applied Mathematics |   2xx: Introduction to Quantitative Finance |
+| Applied Mathematics |   204: Introduction to Quantitative Finance |
 |                     |  3xx: Operations Research | 
+|                     | 308: Statistical Learning |
 
 
 **NOTE**: You cannot double count one course for both applied elective and other requirement.
@@ -129,6 +127,18 @@ Graph theory (Eulerian walk, Hamiltonian cycle, Spanning Tree, Planar graph, etc
 
 **Pre-requisites:** At least 1 100-level math class
 
+### MATH 203: Numerical Analysis
+
+Numerical Analysis stands at the boundary of mathematics and computer science, offering essential tools and methodologies for solving complex mathematical problems through computational means. This course is designed as an introductory exploration into the world of computational mathematics, aiming to seamlessly connect the dots between the elegance of theoretical mathematics and its vast array of practical applications across diverse disciplines such as natural sciences, computer science, engineering, economics, and beyond. In this course, students will be introduced to the concepts of error, accuracy, convergence, complexity, and conditioning. The topics include solving nonlinear equations, systems of equations, solving least squares problems, and interpolation.
+
+**Pre-requisites:** MATH 103, Basic Programming, MATH 101 is not required but highly recommeneded
+
+### MATH 204: Intro to Quantitative Finance
+
+This course equips students with practical programming and mathematical skills necessary for addressing prevalent challenges in finance. These challenges include constructing effective personal finance plans, fair pricing of financial products, and the proficient use of risk management tools. Throughout the course, students will comprehend the formidable impact of compounded interests, witnessing the transformation of a small amount of money into a significantly larger sum over time. Additionally, students will acquire the skills to analyze stock prices and derive key investment performance metrics, such as stock returns and volatilities. The course delves into elucidating the correlation between the returns and volatilities of individual stocks and those within combined portfolios. Students are also trained to construct and manage investment portfolios wisely, aiming for good returns with acceptable risks. Furthermore, the curriculum introduces students to financial derivatives, including futures contracts and options, enabling them to hedge financial portfolios or even speculate on market movements. All these engaging topics are reinforced through practical case studies.
+
+**Pre-requisites**: MATH 105
+
 ### MATH 205: Probability
 
 If a person gets a positive (Covid-19) test, then how likely he/she may get infected with Covid-19? What is the chance to win a lottery jackpot? Students can have precise answers after taking this course. 
@@ -152,6 +162,12 @@ Many business or financial processes are occurring randomly every moment, but bu
 **Pre-requisites:** MATH 205
 
 **Cross-list:** ECON
+
+### MATH 302: Abstract Algebra
+
+Abstract Algebra is a cornerstone of Modern Mathematics. It deals with some of the most abstract structures and operations. The course will provide some basic foundation of group theory (cyclic group, permutation group, group action,...) and some fundamental theorems such as Lagrange and Sylow theorems.
+
+**Pre-requisite:** MATH 103
 
 ### MATH 306: Financial Mathematics
 
