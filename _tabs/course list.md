@@ -98,6 +98,8 @@ How do we know which Covid-19 vaccine is better? Which combination of policies c
 
 **Pre-requisites:** None
 
+**Cross-list:** Economics
+
 ### MATH 201: Differential Equations
 
 What is the math behind radioactive dating, where a radioactive substance can be used to
