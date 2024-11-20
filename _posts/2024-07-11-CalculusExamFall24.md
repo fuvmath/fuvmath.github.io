@@ -1,7 +1,7 @@
 ---
 title: "[Announcement] Calculus Placement Exam for Fall 2024 Courses"
 layout: post
-pin: True 
+pin: False 
 tags: "Exam"
 ---
 The math faculty would like to organize a calculus placement test. 
