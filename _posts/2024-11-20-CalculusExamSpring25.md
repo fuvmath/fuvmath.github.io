@@ -8,7 +8,7 @@ The math faculty would like to organize a calculus placement test.
 
 - Place: online
 
-- Time: 2pm, Monday Dec 9th, 2024
+- Time: 1:30pm, Monday Dec 9th, 2024
 
 This is a test for students, who would like to take a test (with a pass result) 
 to substitute for a calculus course so that they can take other courses that 
